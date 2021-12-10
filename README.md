@@ -1,7 +1,7 @@
 # Income-and-Race-on-Internet-Usage
 
 
-![](./Users/greg/Document/HUNTER/CSCI 39542/Project/TotalHouseholds.png)
+![plot](/Users/greg/Document/HUNTER/CSCI 39542/Project/TotalHouseholds.png)
 
 ![](/Users/greg/Document/HUNTER/CSCI 39542/Project/race_internet.png)
 
