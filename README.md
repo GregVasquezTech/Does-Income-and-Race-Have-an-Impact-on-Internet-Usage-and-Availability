@@ -30,3 +30,9 @@
 
 ![Low_Connections_NYC](https://user-images.githubusercontent.com/34047362/145502486-d1b08be9-9cef-4071-b272-b1b8bbc48ed3.png)
 
+Citations: 
+https://data.cityofnewyork.us/City-Government/Internet-Master-Plan-Broadband-Adoption-Demographi/6yzk-rwz2/data
+https://data.cityofnewyork.us/Social-Services/Internet-Access-by-Select-Demographics-in-New-York/9ss3-avyg
+https://data.cityofnewyork.us/City-Government/Internet-Master-Plan-Adoption-and-Infrastructure-D/fg5j-q5nk/data
+https://www1.nyc.gov/html/mancb10/downloads/pdf/testimonials/cb10-testimony-on-area-median-income-calculation.pdf
+https://matplotlib.org/stable/gallery/
