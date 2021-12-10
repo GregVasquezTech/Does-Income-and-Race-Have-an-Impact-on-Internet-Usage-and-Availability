@@ -2,9 +2,9 @@
 
 ![TotalHouseholds](https://user-images.githubusercontent.com/34047362/145502327-fcf5af25-913c-4dd1-81fc-f5553c280d30.png)
 
-![race_internet](https://user-images.githubusercontent.com/34047362/145502365-fc5ac128-0567-46dc-88dd-3ae2e4e7284e.png)
+![race_internet](https://user-images.githubusercontent.com/34047362/145502987-e8369be8-8719-44f3-b2dc-7c332362752f.png)
 
-![IncomeHouseholds](https://user-images.githubusercontent.com/34047362/145502385-2aa76ffd-6cd5-45dc-901d-f232d614bd1b.png)
+![IncomeHouseholds](https://user-images.githubusercontent.com/34047362/145502990-9580adac-ac39-4bc4-b7f4-af6e77a2b30b.png)
 
 ![Households_With_Without_Internet](https://user-images.githubusercontent.com/34047362/145502417-4b86e9f7-6224-4140-9e75-0fc03d3e4820.png)
 
